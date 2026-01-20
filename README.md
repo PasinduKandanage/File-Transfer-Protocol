@@ -2,27 +2,6 @@ FTP Client–Server Application (Java)
 
 This repository contains a Java-based FTP (File Transfer Protocol) client–server application with graphical user interfaces. The system enables file transfer between a client and a server using socket programming and multithreading.
 
-📁 Project Structure
-FTP-master/
-│
-├── FTP/
-│   ├── src/
-│   │   ├── META-INF/
-│   │   │   └── MANIFEST.MF
-│   │   │
-│   │   └── ftp/
-│   │       ├── FTPClientUI.java
-│   │       ├── FTPServerUI.java
-│   │       ├── FileSender.java
-│   │       ├── ServerThread.java
-│   │       └── WelcomeInterface.java
-│   │
-│   ├── .idea/                # IntelliJ IDEA configuration files
-│   ├── FTP.iml               # IntelliJ module file
-│
-├── .idea/                    # Project-level IDE configs
-├── FTP.iml
-└── README.md
 
 🚀 Features
 
